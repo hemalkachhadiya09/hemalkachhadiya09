@@ -1,9 +1,9 @@
 ### Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Hemal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemal--01629954/)](https://www.linkedin.com/in/hemal-kachhadiya-725a61223/)
+[![Linkedin Badge](https://img.shields.io/badge/-Hemal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemal--01629954/)](https://www.linkedin.com/in/hemal-kachhadiya-725a61223/) [![Website Badge](https://img.shields.io/badge/StackOverflow-Hemal-yellow)](https://stackoverflow.com/users/18257355/kachhadiya-hemal)
 
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Hemal-yellow)](https://stackoverflow.com/users/18257355/kachhadiya-hemal)
+
 
 I'm
 Full Stack Web Developer
